@@ -1,1 +1,1 @@
-echo "Good Monring Saikrishna !! Have a Nice Day !!!" | mail -s "Good Morning Saikrishna" saikrishna.bonagiri@gmail.com
+echo "Good Morning Saikrishna :-)  Today is $(date) !  Have a nice day !!" | mail -s "Good Morning Saikrishna" saikrishna.bonagiri@gmail.com
